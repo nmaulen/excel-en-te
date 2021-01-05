@@ -1,0 +1,23 @@
+{
+  "name": "excelente",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+    "dependencies": {
+      "excel": "^1.0.1",
+      "uuid": "^8.3.2"
+    },
+    "devDependencies": {
+      "@babel/cli": "^7.12.10",
+      "@babel/core": "^7.12.10",
+      "@babel/node": "^7.12.10",
+      "@babel/preset-env": "^7.12.11"
+    }
+  ,
+  
+  "scripts": {
+    "start": "babel-node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
